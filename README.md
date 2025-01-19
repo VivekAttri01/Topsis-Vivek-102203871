@@ -9,6 +9,9 @@ This Python package implements the **TOPSIS** (Technique for Order of Preference
 - Allows specifying weights and impacts for decision criteria.
 - Outputs the Topsis score and rank for each alternative.
 
+# Reference Link
+You can find the package on PyPI: [Topsis-Vivek-102203871 on PyPI](https://pypi.org/project/Topsis-Vivek-102203871/)
+
 ## Installation
 
 To install the package, use `pip` (Python package manager). Run the following command in your terminal:
